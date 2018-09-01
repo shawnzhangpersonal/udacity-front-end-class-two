@@ -1,0 +1,38 @@
+* {
+  font-family: inherit Arial sans-serif;
+}
+
+#dog-exchange-card {
+  margin: 0% 20%;
+  text-align: center;
+  border: solid #eaeaea;
+  box-shadow: 10px 10px #eaeaea;
+}
+
+.menu {
+  text-align: left;
+  margin: 3.5%;
+}
+
+.picture {
+  width: 100%;
+  margin: auto;
+}
+
+.content-box {
+  text-align: left;
+  border: solid #eaeaea;
+  line-height: 1.5em;
+  margin: 0 3.5% 2%;
+  padding: 0 2%;
+}
+
+.animal-brief-introduction {
+  text-align: left;
+  font-style: italic;
+  border-bottom: 2%;
+}
+
+.animal-character {}
+
+.animal-description {}
